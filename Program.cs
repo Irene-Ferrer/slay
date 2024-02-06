@@ -31,4 +31,10 @@ class MathMethods
     }
 }
 
-//
+//using System;
+
+//namespace Aritmetic
+
+//public class MathMethods {
+//  static void m
+//}
